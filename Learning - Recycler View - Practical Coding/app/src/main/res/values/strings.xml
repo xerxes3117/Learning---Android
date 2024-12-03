@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="amino_acids">
+        <item>Alanine</item>
+        <item>Arginine</item>
+        <item>Asparagine</item>
+        <item>Aspartic acid</item>
+        <item>Cysteine</item>
+        <item>Glutamic acid</item>
+        <item>Glutamine</item>
+        <item>Glycine</item>
+        <item>Histidine</item>
+        <item>Isoleucine</item>
+        <item>Leucine</item>
+        <item>Lysine</item>
+        <item>Methionine</item>
+        <item>Phenylalanine</item>
+        <item>Proline</item>
+        <item>Serine</item>
+        <item>Threonine</item>
+        <item>Tryptophan</item>
+        <item>Tyrosine</item>
+        <item>Valine</item>
+    </string-array>
+
+    <string-array name="animo_acids_word_abbreviation">
+        <item>Ala</item>
+        <item>Arg</item>
+        <item>Asn</item>
+        <item>Asp</item>
+        <item>Cys</item>
+        <item>Glu</item>
+        <item>Gln</item>
+        <item>Gly</item>
+        <item>His</item>
+        <item>Ile</item>
+        <item>Leu</item>
+        <item>Lys</item>
+        <item>Met</item>
+        <item>Phe</item>
+        <item>Pro</item>
+        <item>Ser</item>
+        <item>Thr</item>
+        <item>Trp</item>
+        <item>Tyr</item>
+        <item>Val</item>
+    </string-array>
+
+    <string-array name="animo_acids_abbreviation">
+        <item>A</item>
+        <item>R</item>
+        <item>N</item>
+        <item>D</item>
+        <item>C</item>
+        <item>E</item>
+        <item>Q</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>L</item>
+        <item>K</item>
+        <item>M</item>
+        <item>F</item>
+        <item>P</item>
+        <item>S</item>
+        <item>T</item>
+        <item>W</item>
+        <item>Y</item>
+        <item>V</item>
+    </string-array>
+</resources>
